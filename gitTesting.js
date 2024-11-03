@@ -20,7 +20,3 @@ function multiply(){
     const result = num1 * num2
     document.getElementById('result').innerText = 'Result: ' + result;
 }
-
-
-/* -- Will take a list of numbers and give the largest or smallest-- */
-
